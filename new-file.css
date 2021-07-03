@@ -1,5 +1,13 @@
 .another{
     color: red;
+    background-color: cyan;    
+}
+h1{
+    font-size: 50px;
+    color: green;
     background-color: cyan;
-    
+    height: 20px;
+    width: 75%;
+    text-align: center;
+
 }
